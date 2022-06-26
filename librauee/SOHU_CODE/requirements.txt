@@ -1,0 +1,10 @@
+numpy==1.21.6
+pandas==1.3.4
+scikit-learn==0.24.2
+torch==1.9.0
+transformers==4.12.3
+tqdm==4.62.3
+scipy==1.7.3
+lianyhaii==0.0.9
+seaborn==0.11.2
+matplotlib==3.0.3
